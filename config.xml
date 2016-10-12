@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <config status="1" permalink="0" maintenance="0">
+        <![CDATA[Heron Santos]]>
+    </config>
+    <information>
+        <domain><![CDATA[heronsantos.com]]></domain>
+        <date><![CDATA[Thu, 03 May 2012 00:33:26 -0300]]></date>
+    </information>
+    <defines>
+        <mysql>
+            <server>localhost</server>
+            <database></database>
+            <username></username>
+            <password></password>
+            <limit>3000</limit>
+            <global>true</global>
+            <!--<dump>true</dump>-->
+        </mysql>
+        <encoding>
+            <application>utf8</application>
+            <source>utf-8</source>
+        </encoding>
+        <timezone>
+            <locale>pt_BR</locale>
+            <unix>America/Sao_Paulo</unix>
+            <gmt>-3:00</gmt>
+        </timezone>
+    </defines>
+</root>
